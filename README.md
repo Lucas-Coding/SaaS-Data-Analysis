@@ -14,8 +14,11 @@ The objective of this project is to provide the fictional SaaS company with insi
 
 The primary objectives are to:
 Evaluate overall business performance (sales, profit, growth, profit margin).
+
 Identify trends and patterns across different dimensions (time, geography, customer, product).
+
 Assess the impact of factors like discounts on profitability, as well as identifying where those discounts go.
+
 Provide recommendations for strategy search on where to focus sales efforts, and the ideal discount for a sale.
 
 # Executive Summary of SaaS Sales Data Analysis (2020-2023)
@@ -23,23 +26,22 @@ Provide recommendations for strategy search on where to focus sales efforts, and
 This analysis examines a dataset of 9,994 orders from 90 customers in the SaaS industry, covering 2020 to 2023, with total sales of $2.3 million and a cumulative profit of $286,040. While overall growth is positive, there are clear opportunities to enhance profitability through targeted strategies.
 
 The United States stands out as the leading market, driving the majority of orders and profits. The United Kingdom follows closely behind, with both of them combined driving nearly half of the sales of the company.
+
+![alt text](https://github.com/Lucas-Coding/SaaS-Data-Analysis/blob/main/SaaS/visualisations/countries.png?raw=true)
+
 In contrast, countries like Japan, Mexico, and France consistently underperform, often generating negative profits due to frequent high discounts. For instance, these countries have been associated with significant losses tied to discounts ranging up to 0.7, which heavily impact profitability.
 Countries such as Spain, India, and Finland stand out not for their profit or sales volume but because the company has never recorded a loss on any sale in these regions.
-Year
-Sales change
-Profit Change
-2020 to 2021
--2%
-+24%
-2021 to 2022
-+29%
-+32%
-2022 to 2023
-+20%
-+14%
-Total (2020 to 2023)
-+51%
-+88%
+
+
+
+
+
+
+
+
+![alt text](https://github.com/Lucas-Coding/SaaS-Data-Analysis/blob/main/SaaS/visualisations/table.png?raw=true)
+
+
 
 From 2020 to 2023, sales grew by 51%, and profits surged by 88%. Despite the progress, the data suggests room for improvement, particularly in optimizing discounts and focusing on high-value markets. Sales dipped in the first year—likely due to COVID and the cost-cutting that regularly came with the pandemic. The biggest year was the jump from 2021 to 2022, which might be due to the post-pandemic and everything returning to normal. 
 Overall, each year has seen an increase in profit, which is a good sign. The decrease in sales was also only by two percent and was more than made up for in the following years.
@@ -58,10 +60,16 @@ The finance industry is the largest contributor to both sales and profits, gener
 The Marketing Suite product is a significant concern, as it is the only product with a negative profit, incurring a $3,000 loss across over 200 orders, with an average discount of 21%. In contrast, the Storage product only generated a modest $3,000 in sales and $900 in profit from over 200 orders, and underperforms compared to other products that yield higher returns.
 
 Alchemy appears to be a product that, despite having a low number of total orders, generates significant profit per sale, indicating high efficiency. In contrast, ContactMatcher, which has the highest number of distinct orders at 1,842, yields only $12,000 in profit, likely due to its average discount of 0.35, the highest among all products, which may be reducing profitability. Without a high discount, it would most likely be generating much more profit, as evident from the sale in Brazil to Valero Energy.
+
+
+![alt text](https://github.com/Lucas-Coding/SaaS-Data-Analysis/blob/main/SaaS/visualisations/revenue.png?raw=true)
+
+
+
+
 The Enterprise segment seems to have the highest average number of sales; however, all values are very close to each other, ranging from a high of 240 to a low of 223, suggesting this is not an area warranting significant focus.
 
 December consistently records the highest profit per month across all years, followed by September and then closely by November, meaning the last quarter of the year generates the most money for the company. On the other hand, the least profitable months by far are January and February,  leading to the first quarter being the least profitable for the company.
-Recommendations
 
 # Recommendations
 
@@ -81,13 +89,17 @@ Conversely, January and February, the least profitable months, should be targete
 
 # Tools and Technologies 
 Programming: Python through Jupyter Notebooks(Pandas for data manipulation, Matplotlib/Seaborn for visualization). Data was cleaned using pandas, and visualizations were generated using Matplotlib/Seaborn
+
 Databases: MySQL for querying the data and gaining specific insights
+
 Power BI:  For advanced insights and interactive dashboards.
 
 
 # Limitations and Assumptions 
 Data is fictional; real data may have privacy/GDPR concerns.
+
 Currency is unspecified (assume USD); adjust for multi-currency if needed.
+
 No specific name is given to the company, so it is not referred to by any specific name.
 
 
