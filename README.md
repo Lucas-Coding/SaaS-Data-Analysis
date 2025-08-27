@@ -30,6 +30,10 @@ The United States stands out as the leading market, driving the majority of orde
 ![alt text](https://github.com/Lucas-Coding/SaaS-Data-Analysis/blob/main/SaaS/visualisations/countries.png?raw=true)
 
 In contrast, countries like Japan, Mexico, and France consistently underperform, often generating negative profits due to frequent high discounts. For instance, these countries have been associated with significant losses tied to discounts ranging up to 0.7, which heavily impact profitability.
+
+![alt text](https://github.com/Lucas-Coding/SaaS-Data-Analysis/blob/main/SaaS/visualisations/discount.png?raw=true)
+
+
 Countries such as Spain, India, and Finland stand out not for their profit or sales volume but because the company has never recorded a loss on any sale in these regions.
 
 
@@ -43,21 +47,37 @@ Countries such as Spain, India, and Finland stand out not for their profit or sa
 
 
 
+
+
 From 2020 to 2023, sales grew by 51%, and profits surged by 88%. Despite the progress, the data suggests room for improvement, particularly in optimizing discounts and focusing on high-value markets. Sales dipped in the first year—likely due to COVID and the cost-cutting that regularly came with the pandemic. The biggest year was the jump from 2021 to 2022, which might be due to the post-pandemic and everything returning to normal. 
 Overall, each year has seen an increase in profit, which is a good sign. The decrease in sales was also only by two percent and was more than made up for in the following years.
 
 Moving on to customers, Valero Energy is the most profitable customer, with 105 orders generating $41,000 in sales and $10,000 in profit. Looking further into the data set shows us that this massive profit came from one particular sale in Brazil for the product ContactMatcher, which generated 10,000 in sales and nearly 5,000 in profit. No discount was applied. This suggests that the product has the possibility for a high amount of profit.
+
+![alt text](https://github.com/Lucas-Coding/SaaS-Data-Analysis/blob/main/SaaS/visualisations/customer.png?raw=true)
+
+
 Allstate is the least profitable customer, with operations in low-performing countries like Australia, France, and Japan, where high discounts and low margins hinder returns. However, again, this comes from a single sale in Mexico for the Database product, in which they lost 6500. A discount of 70% was used.
 
+
+
+
 In nearly 10,000 orders, some of the biggest changes happened with one sale, suggesting that in most orders, the gain or loss in profit is very small; however, it is these one-off sales that are the most important for the business. These sales are most likely big orders or premium plans, and the most important factor in gaining or losing profit is the discount applied.
+
 Going into more detail, discount strategies reveal a pattern: the most profitable countries, like the United States, rarely receive discounts above moderate levels (0.2 to 0.3), maintaining healthy margins. In contrast, countries generating negative profits frequently receive very high discounts, leading to consistent losses.
 
+![alt text]
+
 It is these very high discounts that affect the profit so much, rather than it being the customer or country as a whole, although they are certainly factors contributing to it. Although high discounts may be good to establish a positive relationship with a company or branch into a certain industry or country, these high discounts should not be used long-term, which is exactly what has happened in some of these countries. 
+
+
 The most notable example is France, which has received over 105 discounts in the very high category. That is a discount ranging from 60 to 70%, meaning they are selling their products for less than half of what they should be sold for.
 
 The finance industry is the largest contributor to both sales and profits, generating $474,000 in revenue and $50,000 in profit, primarily driven by operations in the United States and the United Kingdom. Key players like Allianz and Bank of America are major contributors to this sector’s success. 
 
 The Marketing Suite product is a significant concern, as it is the only product with a negative profit, incurring a $3,000 loss across over 200 orders, with an average discount of 21%. In contrast, the Storage product only generated a modest $3,000 in sales and $900 in profit from over 200 orders, and underperforms compared to other products that yield higher returns.
+
+![alt text](https://github.com/Lucas-Coding/SaaS-Data-Analysis/blob/main/SaaS/visualisations/product.png?raw=true)
 
 Alchemy appears to be a product that, despite having a low number of total orders, generates significant profit per sale, indicating high efficiency. In contrast, ContactMatcher, which has the highest number of distinct orders at 1,842, yields only $12,000 in profit, likely due to its average discount of 0.35, the highest among all products, which may be reducing profitability. Without a high discount, it would most likely be generating much more profit, as evident from the sale in Brazil to Valero Energy.
 
