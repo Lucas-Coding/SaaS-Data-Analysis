@@ -1,0 +1,63 @@
+Row with Minimum Sales:
+id                      4102
+country                Japan
+city                   Tokyo
+region                   APJ
+subregion               JAPN
+customer          Volkswagen
+customer id             1046
+industry       Manufacturing
+segment                  SMB
+product              OneView
+sales                  0.444
+quantity                   1
+discount                 0.8
+profit                 -1.11
+
+Row with Maximum Sales:
+id                        2698
+country                Germany
+city                    Berlin
+region                    EMEA
+subregion              EU-WEST
+customer                Anthem
+customer id               1029
+industry            Healthcare
+segment             Enterprise
+product        Big Ol Database
+sales                 22638.48
+quantity                     6
+discount                   0.5
+profit              -1811.0784
+
+Row with Minimum Profit:
+id                        7773
+country                 Mexico
+city                   Tijuana
+region                    AMER
+subregion                LATAM
+customer              Allstate
+customer id               1003
+industry               Finance
+segment                    SMB
+product        Big Ol Database
+sales                 4499.985
+quantity                     5
+discount                   0.7
+profit               -6599.978
+
+Row with Maximum Profit:
+id                          6827
+country                    India
+city                      Mumbai
+region                       APJ
+subregion                    IND
+customer               Coca-Cola
+customer id                 1021
+industry       Consumer Products
+segment                Strategic
+product                  Alchemy
+sales                   17499.95
+quantity                       5
+discount                     0.0
+profit                  8399.976
