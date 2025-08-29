@@ -66,7 +66,6 @@ In nearly 10,000 orders, some of the biggest changes happened with one sale, sug
 
 Going into more detail, discount strategies reveal a pattern: the most profitable countries, like the United States, rarely receive discounts above moderate levels (0.2 to 0.3), maintaining healthy margins. In contrast, countries generating negative profits frequently receive very high discounts, leading to consistent losses.
 
-![alt text]
 
 It is these very high discounts that affect the profit so much, rather than it being the customer or country as a whole, although they are certainly factors contributing to it. Although high discounts may be good to establish a positive relationship with a company or branch into a certain industry or country, these high discounts should not be used long-term, which is exactly what has happened in some of these countries. 
 
